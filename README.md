@@ -22,7 +22,7 @@
         OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode, sharing)"
         
         Se non appare la versione corretta eliminare versioni ridondanti di java 
-        dal pannello di configurazoine delle variabili d'ambiente"Modifica Varibili di
+        dal pannello di configurazoine delle variabili d'ambiente "Modifica Varibili di
         Windows"
     
     
